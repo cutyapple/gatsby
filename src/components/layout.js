@@ -20,6 +20,7 @@ const Layout = ({ location, title, children }) => {
           style={{
             boxShadow: `none`,
             color: `inherit`,
+            textDecoration: `blink`,
           }}
           to={`/`}
         >
