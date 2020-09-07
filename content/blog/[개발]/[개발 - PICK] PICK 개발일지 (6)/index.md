@@ -1,5 +1,5 @@
 ---
-title: <개발 - PICK> PICK 개발일지 (9)
+title: <개발 - PICK> PICK 개발일지 (6)
 date: "2020-09-05T00:18"
 description: "사전결석신고 기능 개발 중"
 ---
